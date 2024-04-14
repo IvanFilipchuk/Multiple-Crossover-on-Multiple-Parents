@@ -1,0 +1,1 @@
+Added the implementation of the Multiple Crossover algorithm in Python. The algorithm randomly selects genes from a set of parents to create offspring, promoting genetic diversity and potential for better solutions in evolutionary algorithms. Additionally, modified the code to create a list of parents and use it in the algorithm.
